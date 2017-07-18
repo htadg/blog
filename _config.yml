@@ -14,18 +14,18 @@ disqus_shortname:   "htadg"
 background:         "http://apple.wallpapersfine.com/wallpapers/preview/1242x2208/w-9491.jpg"
 
 paginate:           5
-paginate_path:      "/blog/page:num/"
+paginate_path:      "/page:num/"
 
 baseurl:            "/blog"
-permalink:          /blog/:year/:month/:title/
+permalink:          /:year/:month/:title/
 
 markdown:           kramdown
 
 nav:
   - name:           "Home"
-    href:           "http://htadg.github.io"
+    href:           "/blog/"
   - name:           "About"
-    href:           "/blog/about"
+    href:           "/blog/about/"
 
 sass:
   style:            :compressed
