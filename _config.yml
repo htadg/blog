@@ -1,0 +1,48 @@
+name:               "Hiten"
+description:        "Hiten's Ideas and Blogs"
+
+url:                ""
+author:             "htadg"
+email:              "sharmahiten3@gmail.com"
+twitter:            "SharmaHiten"
+github:             "htadg"
+linkedin:           "htadg"
+facebook:           "htadg"
+
+disqus_shortname:   "htadg"
+
+background:         "http://apple.wallpapersfine.com/wallpapers/preview/1242x2208/w-9491.jpg"
+
+paginate:           5
+paginate_path:      "/page:num/"
+
+baseurl:            ""
+permalink:          /:year/:month/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "Home"
+    href:           "http://htadg.github.io"
+  - name:           "About"
+    href:           "/about"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-paginate
