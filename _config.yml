@@ -1,7 +1,7 @@
 name:               "Hiten"
 description:        "Hiten's Ideas and Blogs"
 
-url:                "http://htadg.github.io"
+url:                ""
 author:             "htadg"
 email:              "sharmahiten3@gmail.com"
 twitter:            "SharmaHiten"
@@ -13,19 +13,19 @@ disqus_shortname:   "htadg"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/preview/1242x2208/w-9491.jpg"
 
+baseurl:            "/blog"
 paginate:           5
 paginate_path:      "/page:num/"
 
-baseurl:            "/blog"
-permalink:          /:year/:month/:title/
+permalink:          "/:year/:month/:title/"
 
 markdown:           kramdown
 
 nav:
   - name:           "Home"
-    href:           "/blog/"
+    href:           "/"
   - name:           "About"
-    href:           "/blog/about/"
+    href:           "/about/"
 
 sass:
   style:            :compressed
