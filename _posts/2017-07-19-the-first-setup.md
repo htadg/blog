@@ -1,14 +1,11 @@
 ---
-title:        "Sample Post"
-description:  "A short description of the page's content"
-image:        "http://placehold.it/400x200"
-author:       "Jhonathan"
+title:        "The First Setup"
+description:  "New to Development? Learn to setup Node"
+image:        "/resources/img/nodejs_logo.jpg"
+author:       "Hiten"
 ---
 
-An h1 header
-============
-
-Paragraphs are separated by a blank line.
+If you are starting new into Javascript Development, the you might have actually got a sense of what Node is and what it does. For those who don't know what Node is, Node is a server-side Javascript programming and it is powered by Chrome's V8 Engine.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
@@ -95,7 +92,7 @@ Now a nested list:
 
     Do not bump wooden spoon or it will fall.
 
-Notice again how text always lines up on 4-space indents (including
+Notice again how text always lines up on 4-space indents (inclindents (includinguding
 that last line which continues item 3 above).
 
 Here's a link to [a website](http://foo.bar), to a [local
