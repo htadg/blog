@@ -3,6 +3,10 @@ title: About
 permalink: /about/
 ---
 
-<p class="heavy-title"><a href="http://github.com/thinker3197/Ink">Ink</a> is a simple & minimalistic theme for <a href="http://jekyllrb.com">Jekyll</a>, a static site generator.</p>
+I am a Python and Javascript Developer and a Computer Science Junior in <a href="http://www.msit.in">Maharaja Institute of Technology</a>.
 
->Designed and developed by [@thinker3197](https://github.com/thinker3197).
+My current interests involve Front-End Development and Deep Learning.
+
+I write these blogs whenever I get some spare time and also when I have something interesting to show you guys!
+
+You can know more about me by visiting my <a href="https://htadg.github.io">Website</a>
